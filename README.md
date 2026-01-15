@@ -31,7 +31,7 @@ I'm a passionate **B.Tech CSE (AI & ML) student** with a strong focus on modern 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/goutam-maitry" target="_blank">
+  <a href="www.linkedin.com/in/goutam-maity-986243293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/goutamdebugs" target="_blank">
