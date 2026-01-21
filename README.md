@@ -96,7 +96,8 @@ I'm a passionate **B.Tech CSE (AI & ML) student** with a strong focus on modern 
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **Creative Showcase** | Platform for artists to showcase work | React, Node.js, MongoDB | 🚧 Building |
+| **Ai-interview-helper** | Platform for student for face to face interview with Ai | React, Node.js, MongoDB | processing|
+| **Creative Showcase** | Platform for artists to showcase work | React, Node.js, MongoDB | 90% ✅ Complete|
 | **University Website** | Responsive university portal | React, React Router | ✅ Complete |
 | **Restaurant System** | Full-stack management system | MERN Stack, Stripe | ✅ Complete |
 | **Interactive UI** | Animated web interface | React, GSAP | ✅ Complete |
